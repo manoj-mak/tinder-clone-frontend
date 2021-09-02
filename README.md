@@ -1,3 +1,7 @@
+it might take a while to load the tinder cards since, the backend part is hosted in heroku, if it takes too long try to reload,
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
